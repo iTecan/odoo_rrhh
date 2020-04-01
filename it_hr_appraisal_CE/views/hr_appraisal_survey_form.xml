@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record model="ir.ui.view" id="hr_appraisal_survey_inherited">
+            <field name="name">hr_appraisal list</field>
+            <field name="model">survey.user_input</field>
+            <field name="priority">1</field>
+            <field name="inherit_id" ref="survey.survey_user_input_form"/>
+            <field name="arch" type="xml">
+                <!-- View Results only managers -->
+                <button name="action_survey_results" position="attributes">
+                    <attribute name="groups">iT_hr_appraisal_IHM.group_appraisal_manager"</attribute>
+                </button>
+                <xpath expr="//field[@name='email']" position="after">
+                    <field name="appraisal_id"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>

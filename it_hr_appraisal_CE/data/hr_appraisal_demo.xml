@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data noupdate="1">
+        <!-- Meeting -->
+        <record id="meeting_appraisal_demo" model="calendar.event">
+            <field name="name">Interview with Anita Oliber</field>
+            <field name="start" eval="datetime.now() + timedelta(days=10)"/>
+            <field name="stop" eval="datetime.now() + timedelta(days=10, minutes=30)"/>
+            <field name="partner_ids" eval="[(6, 0, [obj(ref('base.user_demo')).partner_id.id])]" model="res.users"/>
+        </record>
+
+        <!-- My First Appraisal -->
+        <record id="appraisal_demo" model="hr.appraisal">
+            <field name="emp_id" ref="hr.employee_mit"/>
+            <field name="appraisal_deadline" eval="datetime.now() + timedelta(days=30)"/>
+            <field name="hr_manager" eval="True"/>
+            <field name="hr_manager_id" eval="[(4, ref('hr.employee_al'))]"/>
+            <field name="manager_survey_id" ref="survey.feedback_form"/>
+            <field name="meeting_id" ref="meeting_appraisal_demo"/>
+        </record>
+    </data>
+</odoo>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <record id="iT_hr_appraisal_action_form" model="ir.actions.act_window">
+        <field name="name">Appraisal</field>
+        <field name="res_model">hr.appraisal</field>
+        <field name="view_type">form</field>
+        <field name="view_id" ref="iT_hr_appraisal_kanban"/>
+        <field name="view_mode">kanban,tree,form</field>
+    </record>
+
+    <menuitem name="Appraisal"
+              id="menu_hr_appraisal_root"
+              web_icon="iT_hr_appraisal_IHM,static/description/appraisal_icon.jpg"
+              groups="iT_hr_appraisal_IHM.group_appraisal_employee"/>
+
+    <menuitem name="Appraisal"
+              id="menu_hr_appraisal"
+              parent="menu_hr_appraisal_root"
+              action="iT_hr_appraisal_action_form"
+              groups="iT_hr_appraisal_IHM.group_appraisal_employee"/>
+
+    <menuitem name="Answers"
+              id="menu_hr_appraisal_answers"
+              parent="menu_hr_appraisal_root"
+              action="survey.action_survey_user_input"
+              groups="iT_hr_appraisal_IHM.group_appraisal_employee"/>
+</odoo>
