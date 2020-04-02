@@ -1,4 +1,4 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_hr_appraisal_employee,access_hr_appraisal_employee,model_hr_appraisal,iT_hr_appraisal_IHM.group_appraisal_employee,1,0,0,0
-access_hr_appraisal_manager,access_hr_appraisal_manager,model_hr_appraisal,iT_hr_appraisal_IHM.group_appraisal_manager,1,1,1,1
-access_hr_appraisal_stages,iT_hr_appraisal_IHM.hr_appraisal_stages,model_hr_appraisal_stages,,1,0,0,0
+access_hr_appraisal_employee,access_hr_appraisal_employee,model_hr_appraisal,group_appraisal_employee,1,0,0,0
+access_hr_appraisal_manager,access_hr_appraisal_manager,model_hr_appraisal,group_appraisal_manager,1,1,1,1
+access_hr_appraisal_stages,hr_appraisal_stages,model_hr_appraisal_stages,,1,0,0,0

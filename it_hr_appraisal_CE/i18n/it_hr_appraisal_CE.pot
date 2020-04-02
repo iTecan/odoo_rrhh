@@ -8,8 +8,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 15:39+0000\n"
 "PO-Revision-Date: 2020-03-28 15:39+0000\n"
-"Last-Translator: <28/03/20>\n"
-"Language-Team: iTecan\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -23,33 +23,28 @@ msgid "<span class=\"o_stat_value\" attrs=\"{'invisible': [('meeting_id', '=', F
 "                                <span class=\"o_stat_value\" attrs=\"{'invisible': [('meeting_id', '!=', False)]}\">No\n"
 "                                    Meeting\n"
 "                                </span>"
-msgstr "<span class=\"o_stat_value\" attrs=\"{'invisible': [('meeting_id', '=', False)]}\">1\n"
-"                                    Reunión\n"
-"                                </span>\n"
-"                                <span class=\"o_stat_value\" attrs=\"{'invisible': [('meeting_id', '!=', False)]}\">Sin\n"
-"                                    Reuniones\n"
-"                                </span>"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_needaction
 msgid "Action Needed"
-msgstr "Acción requerida"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal__final_interview
 msgid "After sending survey link,you can schedule final interview date"
-msgstr "Después de enviar el enlace de la encuesta, puede programar la fecha final de la entrevista"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.ui.menu,name:it_hr_appraisal_CE.menu_hr_appraisal_answers
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Answers"
-msgstr "Respuestas"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.iT_hr_appraisal_kanban
 msgid "Answers:"
-msgstr "Respuestas:"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.actions.act_window,name:it_hr_appraisal_CE.iT_hr_appraisal_action_form
@@ -58,82 +53,82 @@ msgstr "Respuestas:"
 #: model:ir.ui.menu,name:it_hr_appraisal_CE.menu_hr_appraisal
 #: model:ir.ui.menu,name:it_hr_appraisal_CE.menu_hr_appraisal_root
 msgid "Appraisal"
-msgstr "Evaluación"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__appraisal_deadline
 msgid "Appraisal Deadline"
-msgstr "Evaluación: Fecha Límite"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Appraisal Form"
-msgstr "Formulario de evaluación"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model,name:it_hr_appraisal_CE.model_hr_appraisal_stages
 msgid "Appraisal Stages"
-msgstr "Fases de evaluación"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_survey_user_input__appraisal_id
 msgid "Appriasal id"
-msgstr "Evaluación Id"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_attachment_count
 msgid "Attachment Count"
-msgstr "Contador de archivos adjuntos"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__check_cancel
 msgid "Check Cancel"
-msgstr "Marca Cancelar"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__check_done
 msgid "Check Done"
-msgstr "Marca Hecho"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__check_draft
 msgid "Check Draft"
-msgstr "Marca Borrador"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__check_sent
 msgid "Check Sent Mail"
-msgstr "Enviar por Email"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__hr_colloborator
 msgid "Collaborators"
-msgstr "Colaboradores"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__hr_colleague
 msgid "Colleague"
-msgstr "Compañeros"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__color
 msgid "Color Index"
-msgstr "Índice de Colores"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__company_id
 msgid "Company"
-msgstr "Compañía"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__tot_comp_survey
 msgid "Count Answers"
-msgstr "Contador de respuestas"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__tot_sent_survey
@@ -143,83 +138,83 @@ msgstr ""
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__created_by
 msgid "Created By"
-msgstr "Creado por"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__create_uid
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages__create_uid
 msgid "Created by"
-msgstr "Creado por"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__create_date
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages__create_date
 msgid "Created on"
-msgstr "Creado el"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__date_next_meeting
 msgid "Date Next Meeting"
-msgstr "Fecha próxima reunión"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.iT_hr_appraisal_kanban
 msgid "Deadline:"
-msgstr "Fecha límite:"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.iT_hr_appraisal_kanban
 msgid "Delete"
-msgstr "Suprimir"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__display_name
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages__display_name
 msgid "Display Name"
-msgstr "Nombre mostrado"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Done"
-msgstr "Hecho"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.iT_hr_appraisal_kanban
 msgid "Edit"
-msgstr "Editar"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__emp_id
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__hr_emp
 #: model:res.groups,name:it_hr_appraisal_CE.group_appraisal_employee
 msgid "Employee"
-msgstr "Empleado"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Employee's Name"
-msgstr "Nombre del empleado"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model,name:it_hr_appraisal_CE.model_calendar_event
 msgid "Event"
-msgstr "Evento"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__final_evaluation
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Final Evaluation"
-msgstr "Evaluación final"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__final_interview
 msgid "Final Interview"
-msgstr "Entrevista final"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.iT_hr_appraisal_kanban
 msgid "Final Interview:"
-msgstr "Entrevista final:"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages__fold
@@ -229,27 +224,27 @@ msgstr ""
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_follower_ids
 msgid "Followers"
-msgstr "Seguidores"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_channel_ids
 msgid "Followers (Channels)"
-msgstr "Seguidores (Canales)"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Seguidores (Empresas)"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__app_period_from
 msgid "From"
-msgstr "De"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.module.category,description:it_hr_appraisal_CE.module_category_hr_appraisal
 msgid "Helps to evaluate employees..."
-msgstr "Ayuda a evaluar empleados"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__id
@@ -260,101 +255,101 @@ msgstr ""
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal__message_unread
 msgid "If checked new messages require your attention."
-msgstr "Si está marcado, hay nuevos mensajes que requieren su atención"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal__message_needaction
 msgid "If checked, new messages require your attention."
-msgstr "Si está marcado, hay nuevos mensajes que requieren su atención."
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal__message_has_error
 msgid "If checked, some messages have a delivery error."
-msgstr "Si se encuentra marcado, algunos mensajes tienen error de envío."
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_is_follower
 msgid "Is Follower"
-msgstr "Es un seguidor"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal____last_update
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages____last_update
 msgid "Last Modified on"
-msgstr "Última modificación en"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__write_uid
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages__write_uid
 msgid "Last Updated by"
-msgstr "Última actualización por"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__write_date
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages__write_date
 msgid "Last Updated on"
-msgstr "Última actualización el"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_main_attachment_id
 msgid "Main Attachment"
-msgstr "Adjuntos principales"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__hr_manager
 #: model:res.groups,name:it_hr_appraisal_CE.group_appraisal_manager
 msgid "Manager"
-msgstr "Responsable"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__meeting_id
 msgid "Meeting"
-msgstr "Reunión"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.actions.act_window,name:it_hr_appraisal_CE.iT_action_calendar_event
 msgid "Meeting from Appraisal"
-msgstr "Reunión de evaluaciñon"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_has_error
 msgid "Message Delivery error"
-msgstr "Error de Envío de Mensaje"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_ids
 msgid "Messages"
-msgstr "Mensajes"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages__name
 msgid "Name"
-msgstr "Nombre"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Número de acciones"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_has_error_counter
 msgid "Number of error"
-msgstr "Número de error"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal__message_needaction_counter
 msgid "Number of messages which requires an action"
-msgstr "Número de mensajes que requieren una acción"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr "Número de mensajes con error de envío"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal__message_unread_counter
 msgid "Number of unread messages"
-msgstr "Número de mensajes no leidos"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
@@ -369,7 +364,7 @@ msgstr ""
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__emp_survey_id
 msgid "Select Appraisal Form"
-msgstr "Selecciona formulario de evaluación"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__hr_colleague_id
@@ -377,69 +372,69 @@ msgstr "Selecciona formulario de evaluación"
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__hr_manager_id
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Select Appraisal Reviewer"
-msgstr "Seleccionar revisor de la evaluación "
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__colleague_survey_id
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__colloborator_survey_id
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__manager_survey_id
 msgid "Select Opinion Form"
-msgstr "Selecciona formulario de opinión"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.iT_hr_appraisal_kanban
 msgid "Sent Questions:"
-msgstr "Enviar preguntas:"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal_stages__sequence
 msgid "Sequence"
-msgstr "Secuencia"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Set To Draft"
-msgstr "Establecer en borrador"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__state
 msgid "Stage"
-msgstr "Etapa"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.hr_appraisal_form_view
 msgid "Start Appraisal And Send Forms"
-msgstr "Inicia evaluación y envía los formularios"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model,name:it_hr_appraisal_CE.model_survey_user_input
 msgid "Survey User Input"
-msgstr "Entrada de usuario de la encuesta"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal_stages__fold
 msgid "This stage is folded in the kanban view when there are no records in that stage to display."
-msgstr "Esta etapa se repliega en la vista kanban cuando no hay registros para mostrar en la misma."
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_unread
 msgid "Unread Messages"
-msgstr "Mensajes por leer"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Contador de mensajes sin leer"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,field_description:it_hr_appraisal_CE.field_hr_appraisal__website_message_ids
 msgid "Website Messages"
-msgstr "Mensajes del sitio web"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model:ir.model.fields,help:it_hr_appraisal_CE.field_hr_appraisal__website_message_ids
 msgid "Website communication history"
-msgstr "Historial de comunicaciones del sitio web"
+msgstr ""
 
 #. module: it_hr_appraisal_CE
 #: model_terms:ir.ui.view,arch_db:it_hr_appraisal_CE.iT_hr_appraisal_kanban

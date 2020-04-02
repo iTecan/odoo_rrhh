@@ -1,7 +1,7 @@
 {
     'name': 'it_hr_appraisal_CE',
     'description': 'iTecan - Evaluación de empleados',
-    'version': '12.0.1.0.0',
+    'version': '12.0.1.0.1',
     'summary': 'hr',
     'author': 'Infraestructuras Tecnológicas de Cantabria, S.L.',
     'website': 'https://www.itecan.es',

@@ -9,7 +9,7 @@
             <field name="arch" type="xml">
                 <!-- View Results only managers -->
                 <button name="action_survey_results" position="attributes">
-                    <attribute name="groups">iT_hr_appraisal_IHM.group_appraisal_manager"</attribute>
+                    <attribute name="groups">it_hr_appraisal_CE.group_appraisal_manager"</attribute>
                 </button>
                 <xpath expr="//field[@name='email']" position="after">
                     <field name="appraisal_id"/>
