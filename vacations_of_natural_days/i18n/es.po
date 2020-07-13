@@ -1,0 +1,42 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* vacations_of_natural_days
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-10 10:22+0000\n"
+"PO-Revision-Date: 2020-07-10 10:22+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: vacations_of_natural_days
+#: model:ir.model,name:vacations_of_natural_days.model_res_company
+msgid "Companies"
+msgstr "Compañías"
+
+#. module: vacations_of_natural_days
+#: model:ir.model,name:vacations_of_natural_days.model_hr_leave
+msgid "Leave"
+msgstr "Ausencia"
+
+#. module: vacations_of_natural_days
+#: model:ir.model,name:vacations_of_natural_days.model_hr_leave_type
+msgid "Leave Type"
+msgstr "Tipo de ausencia"
+
+#. module: vacations_of_natural_days
+#: model_terms:ir.ui.view,arch_db:vacations_of_natural_days.it_view_company_form
+msgid "Leaves"
+msgstr "Ausencias"
+
+#. module: vacations_of_natural_days
+#: model:ir.model.fields,field_description:vacations_of_natural_days.field_res_company__vacations_calendar_days
+msgid "Vacations as Calendar Days"
+msgstr "Vacaciones como Días Naturales"
+
